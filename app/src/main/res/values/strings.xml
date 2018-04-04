@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Base Adapter</string>
+    <string-array name="contryName">
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+    </string-array>
+</resources>
